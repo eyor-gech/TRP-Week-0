@@ -32,3 +32,6 @@ Based on the recent updates, I addressed the following aspects of improving the 
 - Including example blocks for trigger responses not only ensures clarity but also standardizes output, reducing misinterpretation.
 - Checklist-based validation is effective in preventing rule violations and enforcing correct workflow sequences.
 - I understood this concept (as a new knowledge) from  `Boris Cherny's workflow`: `“Whenever you see Claude do something wrong, write it into CLAUDE.md. Next time Claude will know not to do that.”`
+
+5. Reference that I used
+- https://www.vibesparking.com/en/blog/ai/claude-code/2026-01-04-boris-cheny-claude-code-workflow-revealed/
